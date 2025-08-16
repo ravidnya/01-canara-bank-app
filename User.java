@@ -4,6 +4,4 @@ class User {
 
     String name = "java";
     int c = 30;
-
-    int i = 0;
 }
